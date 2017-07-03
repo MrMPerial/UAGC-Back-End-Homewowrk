@@ -1,0 +1,7 @@
+Short Description:
+Write arguments to the standard output.
+
+Long Description:
+The echo utility writes any specified operands, separated by single blank
+(` ') characters and followed by a newline (`\n') character, to the standard 
+output.
