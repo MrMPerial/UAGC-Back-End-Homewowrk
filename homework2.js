@@ -12,15 +12,15 @@ console. For every number divisible by both, log 'FizzBuzz' to the console.
 
 for (let i = 1; i <= 100; i++) {
   if (i % 3 === 0) {
-    console.log(i + " Fizz");
+    console.log("Fizz");
   }
 
   if (i % 5 === 0) {
-    console.log(i + " Buzz");
+    console.log("Buzz");
   }
 
   if (i % 3 === 0 && i % 5 === 0) {
-    console.log(i + " Fizz Buzz");
+    console.log("Fizz Buzz");
   }
 }
 
